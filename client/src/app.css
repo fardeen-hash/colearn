@@ -1,0 +1,51 @@
+body {
+    background-color: aqua;
+    margin: 0px;
+    height: 100vh;
+
+}
+
+.box{
+    display: flex;
+    outline: 3px chocolate;
+    /* width: 100%; */
+    height: 100vh;
+  
+
+}
+.box1{
+    
+    background-color: orchid;
+    flex: 1.5;
+  
+    
+
+}
+.box2{
+    
+    background-color: tomato;
+    flex: 22;
+
+}
+.box3{
+    
+    background-color: orange;
+    flex: 7;
+
+}
+.imgnav{
+    display: flex;
+}
+
+
+button{
+    display: flex;
+    border-radius: 0px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(229, 75, 185);
+    border-radius: 8px;
+    color: rgb(154, 180, 38);
+    border: 0px;
+}
